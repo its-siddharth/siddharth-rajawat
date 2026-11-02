@@ -1,5 +1,7 @@
 # Siddharth Rajawat — Portfolio
 
+[View the interactive 3D portfolio](https://siddharth-signal-portfolio.dressypenny2.chatgpt.site) · Private Site; authorized access required.
+
 A responsive personal portfolio built from Siddharth’s résumé. Includes four filterable project case studies, experience, education, skills, résumé download, and contact links.
 
 Built with React, TypeScript, Vite, Lucide icons, and locally hosted DM Sans / Instrument Serif fonts. Project illustrations are original SVG concept visuals, rather than screenshots of the projects. No backend, API credentials, or environment variables are required.
